@@ -113,8 +113,6 @@ The FAQ section is **fully dynamic and controlled by the Admin Panel**.
 
 ##  Tech Stack
 
-*(Update this section based on your implementation)*
-
 * Frontend: React
 * Backend: Node.js / Express
 * Database: PostgreSQL (Sequelize ORM)
